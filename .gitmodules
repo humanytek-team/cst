@@ -25,3 +25,6 @@
 [submodule "stock_warehouse_returns"]
 	path = stock_warehouse_returns
 	url = https://github.com/humanytek-team/stock_warehouse_returns
+[submodule "product_sale_price_greater_than_cost"]
+	path = product_sale_price_greater_than_cost
+	url = https://github.com/humanytek-team/product_sale_price_greater_than_cost
