@@ -19,3 +19,6 @@
 [submodule "stock_inventory_at_date_report"]
 	path = stock_inventory_at_date_report
 	url = https://github.com/humanytek-team/stock_inventory_at_date_report
+[submodule "pos_ticket_with_warehouse_returns"]
+	path = pos_ticket_with_warehouse_returns
+	url = https://github.com/humanytek-team/pos_ticket_with_warehouse_returns
