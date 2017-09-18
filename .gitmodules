@@ -79,3 +79,6 @@
 [submodule "product_accesories_in_stock_picking"]
 	path = product_accesories_in_stock_picking
 	url = https://github.com/humanytek-team/product_accesories_in_stock_picking
+[submodule "product_sku_with_supplier_ref"]
+	path = product_sku_with_supplier_ref
+	url = https://github.com/humanytek-team/product_sku_with_supplier_ref
