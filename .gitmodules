@@ -13,3 +13,6 @@
 [submodule "stock_location_return_not_accepted"]
 	path = stock_location_return_not_accepted
 	url = https://github.com/humanytek-team/stock_location_return_not_accepted
+[submodule "stock_inventory_at_date_with_variants_report_xlsx"]
+	path = stock_inventory_at_date_with_variants_report_xlsx
+	url = https://github.com/humanytek-team/stock_inventory_at_date_with_variants_report_xlsx
