@@ -40,3 +40,6 @@
 [submodule "stock_dispenser"]
 	path = stock_dispenser
 	url = https://github.com/humanytek-team/stock_dispenser
+[submodule "stock_is_stock_user"]
+	path = stock_is_stock_user
+	url = https://github.com/humanytek-team/stock_is_stock_user
