@@ -85,3 +85,6 @@
 [submodule "product_season"]
 	path = product_season
 	url = https://github.com/humanytek-team/product_season
+[submodule "purchase_order_validation"]
+	path = purchase_order_validation
+	url = https://github.com/humanytek-team/purchase_order_validation
