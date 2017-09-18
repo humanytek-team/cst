@@ -76,3 +76,6 @@
 [submodule "purchase_order_lines_images"]
 	path = purchase_order_lines_images
 	url = https://github.com/humanytek-team/purchase_order_lines_images
+[submodule "product_accesories_in_stock_picking"]
+	path = product_accesories_in_stock_picking
+	url = https://github.com/humanytek-team/product_accesories_in_stock_picking
