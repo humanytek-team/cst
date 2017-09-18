@@ -46,3 +46,6 @@
 [submodule "product_cost_readonly"]
 	path = product_cost_readonly
 	url = https://github.com/humanytek-team/product_cost_readonly
+[submodule "purchase_order_responsible"]
+	path = purchase_order_responsible
+	url = https://github.com/humanytek-team/purchase_order_responsible
