@@ -31,3 +31,6 @@
 [submodule "sale_stock_picking_out_assign_dispenser"]
 	path = sale_stock_picking_out_assign_dispenser
 	url = https://github.com/humanytek-team/sale_stock_picking_out_assign_dispenser
+[submodule "stock_picking_out_restrict_partial_delivery"]
+	path = stock_picking_out_restrict_partial_delivery
+	url = https://github.com/humanytek-team/stock_picking_out_restrict_partial_delivery
