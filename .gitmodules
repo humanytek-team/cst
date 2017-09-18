@@ -22,3 +22,6 @@
 [submodule "pos_ticket_with_warehouse_returns"]
 	path = pos_ticket_with_warehouse_returns
 	url = https://github.com/humanytek-team/pos_ticket_with_warehouse_returns
+[submodule "stock_warehouse_returns"]
+	path = stock_warehouse_returns
+	url = https://github.com/humanytek-team/stock_warehouse_returns
