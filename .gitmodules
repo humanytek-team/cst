@@ -49,3 +49,6 @@
 [submodule "purchase_order_responsible"]
 	path = purchase_order_responsible
 	url = https://github.com/humanytek-team/purchase_order_responsible
+[submodule "partner_customer_email_required"]
+	path = partner_customer_email_required
+	url = https://github.com/humanytek-team/partner_customer_email_required
