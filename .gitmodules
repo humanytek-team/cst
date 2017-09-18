@@ -67,3 +67,6 @@
 [submodule "product_limit_number_suppliers"]
 	path = product_limit_number_suppliers
 	url = https://github.com/humanytek-team/product_limit_number_suppliers
+[submodule "product_restrict_change_suppliers"]
+	path = product_restrict_change_suppliers
+	url = https://github.com/humanytek-team/product_restrict_change_suppliers
