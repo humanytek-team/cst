@@ -58,3 +58,6 @@
 [submodule "purchase_order_date_receipt_supplier"]
 	path = purchase_order_date_receipt_supplier
 	url = https://github.com/humanytek-team/purchase_order_date_receipt_supplier
+[submodule "purchase_order_date_sent"]
+	path = purchase_order_date_sent
+	url = https://github.com/humanytek-team/purchase_order_date_sent
