@@ -55,3 +55,6 @@
 [submodule "partner_customer_phone_required"]
 	path = partner_customer_phone_required
 	url = https://github.com/humanytek-team/partner_customer_phone_required
+[submodule "purchase_order_date_receipt_supplier"]
+	path = purchase_order_date_receipt_supplier
+	url = https://github.com/humanytek-team/purchase_order_date_receipt_supplier
