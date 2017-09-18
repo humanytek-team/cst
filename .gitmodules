@@ -1,0 +1,3 @@
+[submodule "stock_return_picking_with_reason"]
+	path = stock_return_picking_with_reason
+	url = https://github.com/humanytek-team/stock_return_picking_with_reason
