@@ -10,3 +10,6 @@
 [submodule "sale_stock_picking_out_returns_not_accepted"]
 	path = sale_stock_picking_out_returns_not_accepted
 	url = https://github.com/humanytek-team/sale_stock_picking_out_returns_not_accepted
+[submodule "stock_location_return_not_accepted"]
+	path = stock_location_return_not_accepted
+	url = https://github.com/humanytek-team/stock_location_return_not_accepted
