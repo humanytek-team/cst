@@ -37,3 +37,6 @@
 [submodule "stock_assign_dispenser_next_picking_out"]
 	path = stock_assign_dispenser_next_picking_out
 	url = https://github.com/humanytek-team/stock_assign_dispenser_next_picking_out
+[submodule "stock_dispenser"]
+	path = stock_dispenser
+	url = https://github.com/humanytek-team/stock_dispenser
