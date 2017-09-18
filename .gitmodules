@@ -73,3 +73,6 @@
 [submodule "sale_order_lines_images"]
 	path = sale_order_lines_images
 	url = https://github.com/humanytek-team/sale_order_lines_images
+[submodule "purchase_order_lines_images"]
+	path = purchase_order_lines_images
+	url = https://github.com/humanytek-team/purchase_order_lines_images
