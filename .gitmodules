@@ -28,3 +28,6 @@
 [submodule "product_sale_price_greater_than_cost"]
 	path = product_sale_price_greater_than_cost
 	url = https://github.com/humanytek-team/product_sale_price_greater_than_cost
+[submodule "sale_stock_picking_out_assign_dispenser"]
+	path = sale_stock_picking_out_assign_dispenser
+	url = https://github.com/humanytek-team/sale_stock_picking_out_assign_dispenser
