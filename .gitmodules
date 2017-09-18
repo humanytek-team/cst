@@ -52,3 +52,6 @@
 [submodule "partner_customer_email_required"]
 	path = partner_customer_email_required
 	url = https://github.com/humanytek-team/partner_customer_email_required
+[submodule "partner_customer_phone_required"]
+	path = partner_customer_phone_required
+	url = https://github.com/humanytek-team/partner_customer_phone_required
