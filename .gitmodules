@@ -88,3 +88,6 @@
 [submodule "purchase_order_validation"]
 	path = purchase_order_validation
 	url = https://github.com/humanytek-team/purchase_order_validation
+[submodule "sale_order_bank_company"]
+	path = sale_order_bank_company
+	url = https://github.com/humanytek-team/sale_order_bank_company
