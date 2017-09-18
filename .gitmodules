@@ -82,3 +82,6 @@
 [submodule "product_sku_with_supplier_ref"]
 	path = product_sku_with_supplier_ref
 	url = https://github.com/humanytek-team/product_sku_with_supplier_ref
+[submodule "product_season"]
+	path = product_season
+	url = https://github.com/humanytek-team/product_season
