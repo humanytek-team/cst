@@ -64,3 +64,6 @@
 [submodule "purchase_order_products_by_supplier"]
 	path = purchase_order_products_by_supplier
 	url = https://github.com/humanytek-team/purchase_order_products_by_supplier
+[submodule "product_limit_number_suppliers"]
+	path = product_limit_number_suppliers
+	url = https://github.com/humanytek-team/product_limit_number_suppliers
