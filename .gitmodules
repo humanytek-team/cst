@@ -91,3 +91,66 @@
 [submodule "sale_order_bank_company"]
 	path = sale_order_bank_company
 	url = https://github.com/humanytek-team/sale_order_bank_company
+[submodule "product_style_line"]
+	path = product_style_line
+	url = https://github.com/humanytek-team/product_style_line
+[submodule "product_style_concept"]
+	path = product_style_concept
+	url = https://github.com/humanytek-team/product_style_concept
+[submodule "product_color"]
+	path = product_color
+	url = https://github.com/humanytek-team/product_color
+[submodule "product_catalog_page"]
+	path = product_catalog_page
+	url = https://github.com/humanytek-team/product_catalog_page
+[submodule "product_box"]
+	path = product_box
+	url = https://github.com/humanytek-team/product_box
+[submodule "product_rejected"]
+	path = product_rejected
+	url = https://github.com/humanytek-team/product_rejected
+[submodule "sale_stock_product_rejected"]
+	path = sale_stock_product_rejected
+	url = https://github.com/humanytek-team/sale_stock_product_rejected
+[submodule "sale_order_product_rejected_on_update"]
+	path = sale_order_product_rejected_on_update
+	url = https://github.com/humanytek-team/sale_order_product_rejected_on_update
+[submodule "pos_product_rejected"]
+	path = pos_product_rejected
+	url = https://github.com/humanytek-team/pos_product_rejected
+[submodule "website_sale_product_stock"]
+	path = website_sale_product_stock
+	url = https://github.com/humanytek-team/website_sale_product_stock
+[submodule "website_sale_product_rejected"]
+	path = website_sale_product_rejected
+	url = https://github.com/humanytek-team/website_sale_product_rejected
+[submodule "sale_stock_returns_not_accepted"]
+	path = sale_stock_returns_not_accepted
+	url = https://github.com/humanytek-team/sale_stock_returns_not_accepted
+[submodule "stock_account_charges_supplier_receipts"]
+	path = stock_account_charges_supplier_receipts
+	url = https://github.com/humanytek-team/stock_account_charges_supplier_receipts
+[submodule "sale_stock_dates_next_receptions"]
+	path = sale_stock_dates_next_receptions
+	url = https://github.com/humanytek-team/sale_stock_dates_next_receptions
+[submodule "sale_order_lines_date_next_reception_on_update"]
+	path = sale_order_lines_date_next_reception_on_update
+	url = https://github.com/humanytek-team/sale_order_lines_date_next_reception_on_update
+[submodule "stock_delivery_slip_with_warehouse_returns"]
+	path = stock_delivery_slip_with_warehouse_returns
+	url = https://github.com/humanytek-team/stock_delivery_slip_with_warehouse_returns
+[submodule "partner_credit"]
+	path = partner_credit
+	url = https://github.com/humanytek-team/partner_credit
+[submodule "sale_stock_product_unavailable"]
+	path = sale_stock_product_unavailable
+	url = https://github.com/humanytek-team/sale_stock_product_unavailable
+[submodule "stock_picking_quantity_done_not_greater_than_todo"]
+	path = stock_picking_quantity_done_not_greater_than_todo
+	url = https://github.com/humanytek-team/stock_picking_quantity_done_not_greater_than_todo
+[submodule "stock_picking_not_add_additional_products"]
+	path = stock_picking_not_add_additional_products
+	url = https://github.com/humanytek-team/stock_picking_not_add_additional_products
+[submodule "stock_picking_lines_hide_button_modify"]
+	path = stock_picking_lines_hide_button_modify
+	url = https://github.com/humanytek-team/stock_picking_lines_hide_button_modify
